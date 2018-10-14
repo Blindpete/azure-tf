@@ -1,0 +1,17 @@
+rg_name = "k8s-testing"
+
+rg_loaction = "northeurope"
+
+master_vm_count = 3
+
+worker_l_vm_count = 3
+
+worker_w_vm_count = 3
+
+sshrsa = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQCjSwu84MLpxgAqTuSw9eq5LFGGZgAAwBneWX2sjAnN7+qkG3sLYJOS9XmVIrkJpN5Msnxio7xh0Zad5Z8yQbwoxU7s+cPHo9DsUi6NThg/VigArb8gsQeONoHIoHXK5DBulo8OvikUAs3R8q7irBFbissMLgy8SwelgCXIrJ6+an/M74JW88VuyCLQ8RhTnNefvauoEQLHsjDBn38zgjpKuqcMqHifFkYtVRsl2smpxNC0VZJAXHZTllBribAvn12lQl/2wg9K1Y16ds1Oh+cIAsq60wD2rhewQnLzFLhbw1rIbCZK7b94nOuMem0BuF7YRyKVqcg0V18lQNc/6OpaShV6HgnhxSKyGnmQYHW7QQSG25sugP7Y1PJUQzJPNS2G2JFNBTXyQlBbPE7cIGIEgzH3eIVX26Wgo9yeZo89FMKKQcb8lDDYqFCOA1EUeDuuXvqG0Du4g902lIYZBevZhEAX27PZwKTzIeYjKABsl2/ZoBKUr5ED/7EnF3RrKaqw3YM8BaVSdKeeFgivak6lkYELo60o1jJHupJCA83bV/GzsU71O7IPqTobFjvwckqCsFTN/fhkKIkAU2Vc5dPwDXnL8EjL2dVNUPetCxPhT9XWtA+kRfuaTBDy2zslvCktZn/2RPUzADDz79HcXRqa+nIbar+B8EeaSWYhWVL/xQ=="
+
+azureadmin = "azureadmin"
+
+worker_vm_size = "Standard_B1s"
+
+worker_w_vm_size = "Standard_B1s"
